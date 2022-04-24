@@ -1,1 +1,1 @@
-# https://cychowai.github.io/jump-game/
+https://cychowai.github.io/jump-game/
